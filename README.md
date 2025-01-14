@@ -71,6 +71,8 @@ Experience live data visualizations of global cyber attacks.
 
 ---
 
+<img align="right" width="300" src="https://github.com/user-attachments/assets/e8116f18-50db-468e-ae55-4d112c94e39d">
+
 ### Key Takeaways  
 - Cyber attacks target individuals, organizations, and nations.  
 - DoS and DDoS attacks disrupt systems.  
@@ -89,7 +91,6 @@ Experience live data visualizations of global cyber attacks.
 
 **Powered by IBM Cloud™**
 
-![CyberF_DefenseInDepth](https://github.com/user-attachments/assets/e8116f18-50db-468e-ae55-4d112c94e39d)
 ![Screenshot (7)](https://github.com/user-attachments/assets/055bab33-e17b-4a61-9a38-3a82e0e67228)
 
 
