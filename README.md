@@ -91,6 +91,6 @@ Experience live data visualizations of global cyber attacks.
 
 **Powered by IBM Cloud™**
 
-![Screenshot (7)](https://github.com/user-attachments/assets/055bab33-e17b-4a61-9a38-3a82e0e67228)
+[![Screenshot (7)](https://github.com/user-attachments/assets/055bab33-e17b-4a61-9a38-3a82e0e67228)](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD?planId=PLAN-FA511CDFAF48&sectionId=SECTION-B&planIdFromParentTab=PLAN-FA511CDFAF48&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-FA511CDFAF48)
 
 
