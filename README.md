@@ -46,19 +46,24 @@ Cyber attackers exploit systems through technical or human vulnerabilities. Belo
 ### Activity: Explore Real-Time Cyber Attack Maps  
 Experience live data visualizations of global cyber attacks.  
 
-[<img align="right" alt="CyberF_KasperskyMap_Eng" width="500" src="https://github.com/user-attachments/assets/c9d2107c-32ab-4db7-b945-843a57468fa6">](#) 
+[<img align="right" alt="CyberF_KasperskyMap_Eng" width="300" src="https://github.com/user-attachments/assets/c9d2107c-32ab-4db7-b945-843a57468fa6">](#) 
 
 1. **Kaspersky Cyberthreat Real-Time Map**  
    - Navigate the map to identify the most attacked countries.  
-   - Hover over threat types for details.  
+   - Hover over threat types for details.
+      
+</br>
+[<img align="left" alt="CyberF_FortinetMap_Eng" width="300" src="https://github.com/user-attachments/assets/31d85728-d76e-40e8-84c9-4b7d7e3fc1c3">](#)
 
-[<img align="right" alt="CyberF_FortinetMap_Eng" width="500" src="https://github.com/user-attachments/assets/31d85728-d76e-40e8-84c9-4b7d7e3fc1c3">](#)
-
+<dev align="right">
 2. **Fortinet Threat Map**  
    - Observe attack details in real time.  
    - Use the legend to interpret threat types.  
+</dev>
 
-[<img align="right" alt="CyberF_BitDefenderMap_Eng" width="500" src="https://github.com/user-attachments/assets/72e3c5ed-e968-405f-b7cc-0059adcebb56">](#) 
+</br>
+
+[<img align="right" alt="CyberF_BitDefenderMap_Eng" width="300" src="https://github.com/user-attachments/assets/72e3c5ed-e968-405f-b7cc-0059adcebb56">](#) 
 
 3. **Bitdefender Cyberthreat Real-Time Map**  
    - Track spam, threats, and attack details by country.  
