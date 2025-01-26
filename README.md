@@ -22,6 +22,12 @@ This certification validates the skills required of associate-level cybersecurit
 
 ---
 
+## Cybersecurity Career Pathways
+
+![2fff499bb02597a91777b5aa783fe179986fc466](https://github.com/user-attachments/assets/e0107d5b-ec6b-4409-ad55-bd1b391c41dd)
+
+---
+
 ### Cybersecurity Fundamentals  
 **Instructor:** Akashdip Mahapatra  
 **Lesson:** Cybersecurity: On the Offense  
