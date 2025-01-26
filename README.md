@@ -28,6 +28,11 @@ This certification validates the skills required of associate-level cybersecurit
 
 ---
 
+| [Introduction to Cybersecurity]() | [CyberOps Associate](https://www.netacad.com/courses/cyberops-associate) |
+| --- | --- |
+
+---
+
 ### Cybersecurity Fundamentals  
 **Instructor:** Akashdip Mahapatra  
 **Lesson:** Cybersecurity: On the Offense  
