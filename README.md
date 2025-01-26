@@ -33,6 +33,12 @@ This certification validates the skills required of associate-level cybersecurit
 
 ---
 
+[<img align="right" alt="GitHub Foundations exam logo" width="300" src="https://github.com/user-attachments/assets/f63c4280-484a-4bfc-942d-9b26fd0d4922">](https://www.credly.com/users/akashdip2001) 
+
+Cisco verifies the earner of this badge successfully completed the Introduction to Cybersecurity course. The holder of this student-level credential has introductory knowledge of cybersecurity, including the global implications of cyber threats on industries, and why cybersecurity is a growing profession. They understand vulnerabilities and threat detection and defense. They also have insight into opportunities available with pursuing cybersecurity certifications.
+
+---
+
 ### Cybersecurity Fundamentals  
 **Instructor:** Akashdip Mahapatra  
 **Lesson:** Cybersecurity: On the Offense  
