@@ -1,3 +1,27 @@
+# Professional Certifications
+
+![a846296f72084faba139bfaa52d11655](https://github.com/user-attachments/assets/0092be93-dc42-4c5d-93cf-9ff2d29e367a)
+
+This is an entry-level certification for newcomers who are preparing to start their career in the cybersecurity field. It is aimed at high school and early college students as well as those interested in a career change. This certificate does not expire or require periodic recertification.
+
+![00290226382c0799c3fc44ca9ce1e9d08a996506](https://github.com/user-attachments/assets/215b5c38-f30b-45ea-8ba4-f31b92822e29)
+
+This is an entry-level security certification that meets the U.S. Department of Defense Directive 8570.01-M requirements, which is an important item for anyone looking to work in IT security for the federal government.
+
+![415219f779ded5cd95057942f30c587c2668e115](https://github.com/user-attachments/assets/7fe587d0-f579-481d-88d0-cba57aec9a59)
+
+This is an entry-level security certification that meets the U.S. Department of Defense Directive 8570.01-M requirements, which is an important item for anyone looking to work in IT security for the federal government.
+
+![5aacc61fb88f64881eb80d593ccf6233f55e8112](https://github.com/user-attachments/assets/d162d122-5da6-4d26-bd2c-e3252daad4e5)
+
+This is the most recognizable and popular security certification. In order to take the exam, you need to have at least five years of relevant industry experience.
+
+![dfd0741b21a340f8af64278c82e7ed9738e0ff19](https://github.com/user-attachments/assets/ec6c1fc6-0226-49c7-89ac-7a94cd2dc684)
+
+This certification validates the skills required of associate-level cybersecurity analysts within security operations centers.
+
+---
+
 ### Cybersecurity Fundamentals  
 **Instructor:** Akashdip Mahapatra  
 **Lesson:** Cybersecurity: On the Offense  
